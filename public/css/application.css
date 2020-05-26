@@ -24,9 +24,6 @@
   background-size: 22px !important;
   background-repeat: no-repeat;
 }
-.navbar-nav > li .profile-icon {
-  background-image: url("/images/parts3.png");
-}
 body {
   background-color: #fafafa;
   font-size: 14px;
